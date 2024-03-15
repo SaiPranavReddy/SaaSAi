@@ -13,7 +13,7 @@ export const Heading = ({
     description,
     icon:Icon,
     iconColor,
-    bgColor
+    bgColor,
 }: Headingprops) => {
     return(
         <div className="px-4 lg:px-8 flex items-center gap-x-3 mb-8">
